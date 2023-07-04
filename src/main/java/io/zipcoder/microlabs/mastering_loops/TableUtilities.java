@@ -23,7 +23,7 @@ public class TableUtilities {
             result.append("\n");
         }
         String newString = result.toString();
-        System.out.println(newString);
+
 
         return newString;
     }
